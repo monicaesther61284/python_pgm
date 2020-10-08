@@ -1,2 +1,2 @@
 # python_pgm
-python
+python its a pool of python program
